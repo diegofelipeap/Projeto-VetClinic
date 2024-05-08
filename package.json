@@ -1,0 +1,25 @@
+{
+  "name": "projeto-vetclinic",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Projeto da 4ª semana do estágio Back-End na empresa Compass UOL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crud",
+    "vetclinic"
+  ],
+  "author": "Diego Felipe Alves Pereira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "sequelize-cli": "^6.6.2"
+  }
+}
