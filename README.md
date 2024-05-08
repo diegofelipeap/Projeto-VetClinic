@@ -19,7 +19,7 @@ Este é um projeto de uma API REST desenvolvida em Node.js utilizando Express.js
 
 1. Clone o repositório:
    ```bash
-   git clone <>
+   git clone <https://github.com/diegofelipeap/Projeto-VetClinic>
    ```
 
 2. Instale as dependências:
